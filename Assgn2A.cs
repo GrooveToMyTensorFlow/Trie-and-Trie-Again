@@ -1,7 +1,3 @@
-﻿//Dharam Raj Patel
-//Rocky Sharaf
-//Amber
-//Assignment 2a
 
 using System;
 using System.Collections.Generic;
